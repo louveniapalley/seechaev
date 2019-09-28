@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chuchuphe.vermeyden.com/sitemap.xml
